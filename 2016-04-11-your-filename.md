@@ -1,7 +1,7 @@
 ## Template Process 1
 
 ### Purpose  
-This is the pupose of this process
+This is the purpose of this process
 
 ### Predecessor  
 Process 0
