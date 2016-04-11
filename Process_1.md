@@ -1,21 +1,21 @@
-## Template Process 1
+## Process 1
 
 ### Purpose  
-This is the purpose of this process
+To make tea
 
 ### Predecessor  
 Process 0
 
 
 ### Successor  
-Process 1
+Process 2
 
 
 ### Procedures  
 
-1.1 item
-1.2 item
-1.3 item
+1.1 Kettle use
+1.2 Teapot Use
+1.3 Pouring Tea
 
 
 ### Guides  
