@@ -13,9 +13,9 @@ Process 2
 
 ### Procedures  
 
-1.1 Kettle use
-1.2 Teapot Use
-1.3 Pouring Tea
+1.1 Kettle use  
+1.2 Teapot Use  
+1.3 Pouring Tea  
 
 
 ### Guides  
